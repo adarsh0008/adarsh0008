@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adarsh%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20GoHighLevel%20Expert&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adarsh%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20GoHighLevel%20Expert&descAlignY=58&descSize=18" alt="Adarsh Shukla - GoHighLevel Developer, AI Automation Expert and Full-Stack Developer"/>
 </p>
 
 <p align="center">
   <a href="mailto:adarshlkj@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Shukla;11%2B+Years+%E2%80%94+From+Ideas+to+Production;GoHighLevel+Expert+%26+Custom+Solutions;Full-Stack+Web+%26+Mobile+Developer;CRM+%E2%80%A2+Automation+%E2%80%A2+APIs+%E2%80%A2+Cloud+%E2%80%A2+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Shukla;11%2B+Years+%E2%80%94+From+Ideas+to+Production;GoHighLevel+Expert+%26+Custom+Solutions;Full-Stack+Web+%26+Mobile+Developer;CRM+%E2%80%A2+Automation+%E2%80%A2+APIs+%E2%80%A2+Cloud+%E2%80%A2+AI" alt="GoHighLevel expert, Retell AI voice agent developer, n8n automation expert" />
   </a>
 </p>
 
@@ -24,12 +24,12 @@
 
 ## 👨‍💻 About Me
 
-I help businesses and agencies turn ideas into **reliable, production-ready software** — from custom web & mobile apps to fully automated **GoHighLevel** CRM systems.
+I'm **Adarsh Shukla**, a **GoHighLevel (GHL) developer and AI automation expert** with 11+ years of experience. I help businesses, marketing agencies and SaaS founders turn ideas into **reliable, production-ready software** — from custom web & mobile apps to fully automated **GoHighLevel CRM systems**, **AI voice agents built with Retell AI**, **n8n automation workflows** and **RAG-based AI chatbots** trained on business data.
 
 - 🚀 **11+ years** of hands-on development and delivery
 - 🌐 Full-stack **web & mobile** — UI, APIs, databases and cloud
 - ⚡ **GoHighLevel specialist** — setup, automation and custom-coded solutions
-- 🤖 **AI voice agents (Retell AI), n8n automations & RAG chatbots** that save teams hours every week
+- 🤖 **AI integrations & automation** that save teams hours every week
 - 📊 Business **dashboards, KPIs and reporting** tools
 
 ---
@@ -76,30 +76,6 @@ I help businesses and agencies turn ideas into **reliable, production-ready soft
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
-
-### 🤖 AI, Voice Agents & Automation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Retell%20AI-Voice%20Agents-111827?style=for-the-badge" alt="Retell AI"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0ea5e9?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6C47FF?style=for-the-badge" alt="LlamaIndex"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Vector%20DB-Embeddings%20%26%20Search-7c3aed?style=for-the-badge" alt="Vector DB"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/Supabase%20pgvector-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase pgvector"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB"/>
 </p>
 
 ---
@@ -155,6 +131,42 @@ I help businesses and agencies turn ideas into **reliable, production-ready soft
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
+
+---
+
+## 🔎 Looking to Hire? I Can Help With
+
+<details open>
+<summary><b>🔹 Need a GoHighLevel (GHL) developer or expert?</b></summary>
+<br/>
+I build and customize GoHighLevel for agencies and businesses: account and sub-account setup, workflows and automations, funnels and websites, pipelines, calendars, SaaS mode and white-label, snapshots, and custom GHL API and webhook integrations.
+</details>
+
+<details>
+<summary><b>🔹 Need an AI voice agent or AI receptionist (Retell AI)?</b></summary>
+<br/>
+I build AI voice agents with Retell AI that answer inbound calls, make outbound calls, qualify leads, book appointments into your calendar and sync everything to your CRM, including GoHighLevel.
+</details>
+
+<details>
+<summary><b>🔹 Need n8n, Zapier or Make automation?</b></summary>
+<br/>
+I design n8n workflows and Zapier or Make automations that connect your CRM, forms, email, SMS, payments and AI models, so repetitive work runs on its own.
+</details>
+
+<details>
+<summary><b>🔹 Need a RAG chatbot or custom AI assistant?</b></summary>
+<br/>
+I build RAG (Retrieval Augmented Generation) chatbots that answer from your own documents and data, using OpenAI, Claude, Gemini or Llama models with vector databases like Pinecone, Supabase pgvector, Qdrant or ChromaDB.
+</details>
+
+<details>
+<summary><b>🔹 Need a full-stack web or mobile app developer?</b></summary>
+<br/>
+I build scalable web apps, mobile apps, REST APIs, admin panels and dashboards with React, Next.js, Node.js, PHP, Laravel, Flutter and cloud platforms like AWS and Google Cloud.
+</details>
+
+<p align="center"><b>Working remotely with clients and agencies worldwide.</b></p>
 
 ---
 
