@@ -29,7 +29,7 @@ I help businesses and agencies turn ideas into **reliable, production-ready soft
 - 🚀 **11+ years** of hands-on development and delivery
 - 🌐 Full-stack **web & mobile** — UI, APIs, databases and cloud
 - ⚡ **GoHighLevel specialist** — setup, automation and custom-coded solutions
-- 🤖 **AI integrations & automation** that save teams hours every week
+- 🤖 **AI voice agents (Retell AI), n8n automations & RAG chatbots** that save teams hours every week
 - 📊 Business **dashboards, KPIs and reporting** tools
 
 ---
@@ -76,6 +76,30 @@ I help businesses and agencies turn ideas into **reliable, production-ready soft
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
+
+### 🤖 AI, Voice Agents & Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Retell%20AI-Voice%20Agents-111827?style=for-the-badge" alt="Retell AI"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0ea5e9?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6C47FF?style=for-the-badge" alt="LlamaIndex"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vector%20DB-Embeddings%20%26%20Search-7c3aed?style=for-the-badge" alt="Vector DB"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Supabase%20pgvector-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase pgvector"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB"/>
 </p>
 
 ---
