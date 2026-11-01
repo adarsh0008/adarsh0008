@@ -1,12 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adarsh%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20and%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adarsh%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20GoHighLevel%20Expert&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/adarsh0008">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Shukla;11%2B+Years+%E2%80%94+From+Ideas+to+Production;Full-Stack+Web+%26+Mobile+Developer;Scalable+Apps+%E2%80%A2+APIs+%E2%80%A2+Cloud+%E2%80%A2+AI+%E2%80%A2+Automation" alt="Typing SVG" />
+  <a href="mailto:adarshlkj@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Shukla;11%2B+Years+%E2%80%94+From+Ideas+to+Production;GoHighLevel+Expert+%26+Custom+Solutions;Full-Stack+Web+%26+Mobile+Developer;CRM+%E2%80%A2+Automation+%E2%80%A2+APIs+%E2%80%A2+Cloud+%E2%80%A2+AI" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <a href="mailto:adarshlkj@gmail.com"><img src="https://img.shields.io/badge/Available%20for-Freelance%20%26%20Contract-22c55e?style=for-the-badge" alt="Available for work"/></a>
+  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-0ea5e9?style=for-the-badge" alt="11+ years"/>
+  <img src="https://img.shields.io/badge/GoHighLevel-Expert-7c3aed?style=for-the-badge" alt="GHL Expert"/>
 </p>
 
 <p align="center">
@@ -18,13 +24,40 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **11+ years** turning ideas into production-ready products
-- 🌐 Full-stack **web & mobile** development — from UI to APIs to cloud
-- ⚙️ Building **scalable apps, REST APIs, dashboards** and business tools
-- 🤖 Working with **AI integrations & automation** workflows
-- 🌱 Always learning and exploring new tech
-- 💬 Ask me about **JavaScript, Node.js, React, PHP, APIs & Cloud**
-- ⚡ Fun fact: I love turning complex problems into simple solutions
+I help businesses and agencies turn ideas into **reliable, production-ready software** — from custom web & mobile apps to fully automated **GoHighLevel** CRM systems.
+
+- 🚀 **11+ years** of hands-on development and delivery
+- 🌐 Full-stack **web & mobile** — UI, APIs, databases and cloud
+- ⚡ **GoHighLevel specialist** — setup, automation and custom-coded solutions
+- 🤖 **AI integrations & automation** that save teams hours every week
+- 📊 Business **dashboards, KPIs and reporting** tools
+
+---
+
+## ⚡ GoHighLevel (GHL) Services & Custom Solutions
+
+| 🧩 Setup & Automation | 🛠️ Custom Development |
+|---|---|
+| ✅ Complete agency & sub-account setup | ✅ Custom integrations via GHL API & webhooks |
+| ✅ Workflows, triggers & smart automations | ✅ Custom JS / CSS for funnels, sites & portals |
+| ✅ Pipelines, CRM & lead management | ✅ Third-party app integrations (Zapier, Make, Stripe, Twilio) |
+| ✅ Funnels, websites & landing pages | ✅ Custom dashboards & reporting tools |
+| ✅ Calendars, forms, surveys & booking flows | ✅ AI chatbots & conversation automation |
+| ✅ Email / SMS campaigns & nurture sequences | ✅ SaaS mode, white-label & snapshot builds |
+| ✅ Reputation management & review automation | ✅ Data migration from other CRMs |
+
+---
+
+## 🤝 Why Clients Work With Me
+
+<table>
+<tr>
+<td align="center" width="25%">🎯<br/><b>End-to-End Delivery</b><br/><sub>From idea and planning to launch and support</sub></td>
+<td align="center" width="25%">💬<br/><b>Clear Communication</b><br/><sub>Regular updates, no surprises</sub></td>
+<td align="center" width="25%">🧱<br/><b>Scalable & Clean Code</b><br/><sub>Built to grow with your business</sub></td>
+<td align="center" width="25%">🛡️<br/><b>Post-Launch Support</b><br/><sub>I stay with you after delivery</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -36,6 +69,38 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,mysql,mongodb,postgres,firebase,aws,gcp,docker,git,github,linux,vscode,postman&perline=13" alt="tools & cloud" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GoHighLevel-7c3aed?style=for-the-badge" alt="GoHighLevel"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
+
+---
+
+## 🏆 Highlights & Achievements
+
+<table>
+<tr>
+<td align="center" width="33%">🗓️<br/><b>11+ Years</b><br/><sub>Professional development experience</sub></td>
+<td align="center" width="33%">⚡<br/><b>GHL Automation Expert</b><br/><sub>Workflows, funnels, SaaS mode & custom code</sub></td>
+<td align="center" width="33%">🌐<br/><b>Full-Stack Web & Mobile</b><br/><sub>Frontend, backend, APIs & apps</sub></td>
+</tr>
+<tr>
+<td align="center" width="33%">🤖<br/><b>AI & Automation</b><br/><sub>Chatbots, AI integrations & smart workflows</sub></td>
+<td align="center" width="33%">🔗<br/><b>API & Integrations</b><br/><sub>Webhooks, payments, messaging & CRMs</sub></td>
+<td align="center" width="33%">📊<br/><b>Dashboards & Reporting</b><br/><sub>KPIs and business insights</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Ideas%20to%20Production-11%2B%20Years-0ea5e9?style=flat-square" alt="badge"/>
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20GHL-Automation%20Expert-7c3aed?style=flat-square" alt="badge"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI-Integrations-f59e0b?style=flat-square" alt="badge"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Web%20%26%20Mobile-Full%20Stack-22c55e?style=flat-square" alt="badge"/>
+</p>
 
 ---
 
@@ -46,28 +111,38 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh0008&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh0008&theme=tokyonight" alt="Repos per language" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh0008&theme=tokyonight" alt="GitHub stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh0008&theme=tokyonight" alt="Repos per language" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adarsh0008&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh0008&theme=tokyonight" alt="Most commit language" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh0008&theme=tokyonight&utcOffset=5.5" alt="Productive time" height="160" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=adarsh0008&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+  <img src="https://streak-stats.demolab.com?user=adarsh0008&theme=tokyonight&hide_border=true&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 💫 Dev Quote
 
 <p align="center">
-  <a href="https://github.com/adarsh0008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+
+## 📫 Let's Work Together
+
+<p align="center">
+  Have a project, a GHL setup, or a custom solution in mind? Let's talk! 👇
+</p>
+
+<p align="center">
+  <a href="mailto:adarshlkj@gmail.com"><img src="https://img.shields.io/badge/Email-adarshlkj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/adarsh0008"><img src="https://img.shields.io/badge/GitHub-adarsh0008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
